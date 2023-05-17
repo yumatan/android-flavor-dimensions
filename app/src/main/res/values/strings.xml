@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">android_flavor_dimensions</string>
+    <string name="target_text">main</string>
 </resources>

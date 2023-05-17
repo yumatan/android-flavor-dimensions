@@ -31,9 +31,6 @@ android {
         dev {
 
         }
-        prod {
-
-        }
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_11
